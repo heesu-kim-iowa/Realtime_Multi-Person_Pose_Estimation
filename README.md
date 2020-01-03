@@ -85,3 +85,11 @@ Please cite the paper in your publications if it helps your research:
       title = {Convolutional pose machines},
       year = {2016}
       }
+
+# Guideline
+## Running Environment
+* ***Windows 10***
+* ***Python 3.7***
+
+## Setup
+(Being written)
